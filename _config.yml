@@ -1,18 +1,18 @@
 permalink:           pretty
 
 # Setup
-title:               'Doctor Jekyll'
-tagline:             'Project documentation template'
-baseurl:             'https://bakery.github.io/doctor-jekyll'
+title:               'Masterplan'
+tagline:             'Build it to share!'
+baseurl:             'https://soburei.github.io/Masterplan'
 
 sass:
   style: compressed
 
 # About/contact
 author:
-  name:              The Bakery
-  url:               https://twitter.com/bakeryhq
-  email:             hi@thebakery.io
+  name:              osd
+  url:               https://twitter.com/osd_it
+  email:             contact@osd.tools
 
 gems:                [algoliasearch-jekyll]
 
@@ -22,10 +22,10 @@ version:             1.0.0
 exclude:             [vendor]
 
 github:
-  repository_url:    https://github.com/bakery/doctor-jekyll
+  repository_url:    https://github.com/soburei/Masterplan
 
 twitter:
-  handle:            bakeryhq
+  handle:            osd_it
 
 algolia:
   application_id:    'RJLGF63QKK'
